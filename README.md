@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mohamedAbdelaleem a CS student
-- 👀 I’m interested in data science & AI
+- 👀 I’m interested in Software engineering.
 
 <!---
 mohamedAbdelaleem/mohamedAbdelaleem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
